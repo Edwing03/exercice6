@@ -14,4 +14,15 @@
 .rayure-grise {
   background-image: repeating-linear-gradient(-45deg, #ddd, #ddd 20px, #eee 20px, #eee 40px);
 }
+
+.grosseur-text {
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .site-description {
+    margin-right: 7em;
+    font-size: 25px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
