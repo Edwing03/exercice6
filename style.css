@@ -19,6 +19,10 @@
   font-size: 20px;
 }
 
+.entry-title {
+  color: red;
+}
+
 .entry .entry-title:before {
   display: none;
 }
