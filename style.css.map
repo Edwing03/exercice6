@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA;;;;;;;;;;;;EAYE;AAEF,AAAA,aAAa,CAAC;EACV,gBAAgB,EAAE,wEAAwE;CAC3F",
+    "sources": [
+        "sass/style.scss",
+        "sass/_gutenberg.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
